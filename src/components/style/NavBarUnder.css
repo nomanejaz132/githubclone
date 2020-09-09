@@ -1,0 +1,31 @@
+.container {
+  background-color: #fafbfc;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: space-between;
+  width: auto;
+  padding-top: 16px;
+  margin-bottom: 32px;
+}
+.upper-container {
+  background-color: #fafbfc;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  justify-content: space-between;
+  width: auto;
+  padding: 0px 32px;
+  margin-bottom: 16px;
+  line-height: 21px;
+}
+
+.lower-container {
+  background-color: #fafbfc;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  width: auto;
+  padding: 0px 32px;
+  border-bottom: 1px solid #E1E4E8;
+}

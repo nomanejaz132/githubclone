@@ -1,0 +1,17 @@
+.main {
+    width: auto;
+    height: 838px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main-container {
+    width: 1250px;
+    height: 694px;
+    padding: 0px 32px;
+    margin: 0px 34px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
